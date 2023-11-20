@@ -2,6 +2,7 @@
 The official repository of the paper:
 
 MODEL-AGNOSTIC COLLABORATIVE PERCEPTION VIA PROBABILISTIC PROPAGATION
+
 Weishang Wu, Xiaoheng Deng*, Jiang Ping, Xuechen Chen, Feng Zeng
 
 ![image](https://github.com/SyKszzzzz/CRPP/assets/48318221/e367fb78-78e8-47f1-9782-87deca543fb6)
